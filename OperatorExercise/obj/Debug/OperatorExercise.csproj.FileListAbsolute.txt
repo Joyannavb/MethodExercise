@@ -1,0 +1,8 @@
+C:\Users\joyan\repos\OperatorExercise\OperatorExercise\bin\Debug\OperatorExercise.exe.config
+C:\Users\joyan\repos\OperatorExercise\OperatorExercise\bin\Debug\OperatorExercise.exe
+C:\Users\joyan\repos\OperatorExercise\OperatorExercise\bin\Debug\OperatorExercise.pdb
+C:\Users\joyan\repos\OperatorExercise\OperatorExercise\obj\Debug\OperatorExercise.csproj.AssemblyReference.cache
+C:\Users\joyan\repos\OperatorExercise\OperatorExercise\obj\Debug\OperatorExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\joyan\repos\OperatorExercise\OperatorExercise\obj\Debug\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\joyan\repos\OperatorExercise\OperatorExercise\obj\Debug\OperatorExercise.exe
+C:\Users\joyan\repos\OperatorExercise\OperatorExercise\obj\Debug\OperatorExercise.pdb
